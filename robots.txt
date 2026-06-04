@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://allamanda-market.fr/sitemap.xml

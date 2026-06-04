@@ -1,0 +1,12 @@
+{
+  "name": "Allamanda Market",
+  "short_name": "Allamanda",
+  "description": "Épicerie d'alimentation naturelle et biologique à Les Abymes, Guadeloupe",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#B45309",
+  "icons": [
+    { "src": "/assets/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
